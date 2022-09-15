@@ -21,11 +21,11 @@ methods:{
 
 </script>
 <template>
-<Letterbox num='1st' :numone = '2' :numtwo = '8' :numthree = '6' :numfour = '7' :numfive = '5' />
-<Letterbox num='2nd' :numone = '2' :numtwo = '8' :numthree = '6' :numfour = '7' :numfive = '5' />
-<Letterbox num='3rd' :numone = '2' :numtwo = '8' :numthree = '6' :numfour = '7' :numfive = '5' />
-<Letterbox num='4th' :numone = '2' :numtwo = '8' :numthree = '6' :numfour = '7' :numfive = '5'/>
-<Letterbox num='5th' :numone = '2' :numtwo = '8' :numthree = '6' :numfour = '7' :numfive = '5'/>
+<Letterbox num='1st' :numone = '3' :numtwo = '7' :numthree = '1' :numfour = '4' :numfive = '2' />
+<Letterbox num='2nd' :numone = '3' :numtwo = '7' :numthree = '1' :numfour = '4' :numfive = '2' />
+<Letterbox num='3rd' :numone = '3' :numtwo = '7' :numthree = '1' :numfour = '4' :numfive = '2' />
+<Letterbox num='4th' :numone = '3' :numtwo = '7' :numthree = '1' :numfour = '4' :numfive = '2' />
+<Letterbox num='5th' :numone = '3' :numtwo = '7' :numthree = '1' :numfour = '4' :numfive = '2' />
 </template>
 
 
