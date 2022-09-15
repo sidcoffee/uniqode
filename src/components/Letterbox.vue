@@ -209,6 +209,13 @@ input[type=text]{
     font-size: 35px;
     text-align: center;
 }
+@media only screen and (max-width: 600px) {
+  input[type=text]{
+    width: 40px;
+    height: 40px;
+    font-size: 25px;
+    text-align: center;
+}
 .secretone{
     background:lightgreen;
 }
