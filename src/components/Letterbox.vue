@@ -203,14 +203,14 @@
 .yellowback{
   background: yellow;
 }
-input[type=text]{
+input[type=number]{
     width: 50px;
     height: 50px;
     font-size: 35px;
     text-align: center;
 }
 @media only screen and (max-width: 600px) {
-  input[type=text]{
+  input[type=number]{
     width: 40px;
     height: 40px;
     font-size: 25px;
