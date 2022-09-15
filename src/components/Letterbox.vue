@@ -215,7 +215,7 @@ input[type=text]{
     height: 40px;
     font-size: 25px;
     text-align: center;
-}
+}}
 .secretone{
     background:lightgreen;
 }
