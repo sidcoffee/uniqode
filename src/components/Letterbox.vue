@@ -11,7 +11,7 @@
 
 </div>
 <div v-if="alltrue" style="padding:30px 0;">
-  <img src="https://cdn.dribbble.com/users/69311/screenshots/1226327/congrats-gif-edit.gif"/ style="max-width: 100%;">
+  <img src="https://cdn.dribbble.com/users/69311/screenshots/1226327/congrats-gif-edit.gif" style="max-width: 100%;" />
   <h1 style="text-align:center">You have cracked the code in {{num}} try   
 </h1>
 <!-- <input type="text" placeholder="Enter the code to unlock your voucher" style="pointer-events: all;width:100%;font-size:22px;" ref="op"> -->
