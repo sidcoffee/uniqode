@@ -45,28 +45,24 @@ methods:{
     background: rgb(18, 201, 131);
     color: #fff;
     border: none;
-    padding: 10px 20px;
     margin: 5px;
     border-radius: 5px;
     cursor: pointer;
     text-decoration: none;
     font-size: 15px;
     font-family: inherit;
-    width:100px;
   }
   .btn-re {
     display: inline-block;
     background: #f8a711ee;
     color: #fff;
     border: none;
-    padding: 10px 20px;
     margin: 5px;
     border-radius: 5px;
     cursor: pointer;
     text-decoration: none;
     font-size: 15px;
     font-family: inherit;
-    width:100px;
   }
   .btn:focus {
     outline: none;
