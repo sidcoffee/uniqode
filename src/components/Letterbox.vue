@@ -11,7 +11,7 @@
 
 </div>
 <div v-if="alltrue" style="padding:30px 0;">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/festival-culture-religion/congratulations-icon.png" />
+  <img src="https://cdn.dribbble.com/users/69311/screenshots/1226327/congrats-gif-edit.gif" width="350px"/>
   <h1 style="text-align:center">You have cracked the code in {{num}} try   
 </h1>
 <!-- <input type="text" placeholder="Enter the code to unlock your voucher" style="pointer-events: all;width:100%;font-size:22px;" ref="op"> -->
@@ -213,7 +213,7 @@ input[type=number]{
   input[type=number]{
     width: 40px;
     height: 40px;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
 }}
 .secretone{
